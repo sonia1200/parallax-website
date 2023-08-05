@@ -1,0 +1,129 @@
+* {
+    margin: 0%;
+}
+.sec1{
+    background-image: url("image1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#pageone {
+background-color:rgb(87, 85, 85);
+color: white;
+font-family: "lato", sans-serif;
+height: 90px;
+width: 500px;
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: 45px;
+margin-top: 280px;
+
+
+
+}
+.sec2 {
+    margin-left: 80px;
+    margin-right: 80px;
+    text-align: center;
+    height: 300px;
+}
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    font-size: 40px;
+    letter-spacing: 1px;
+    
+}
+.sec3 {
+    background-image: url("image2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#pagetwo {
+    height: 90px;
+    width: 500px;
+    color: white;
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(255,255,255,0.1);
+}
+.sec4 {
+    background-color: grey;
+    height: 300px;
+   
+   
+}
+.sec4 h1 {
+    color: white;
+}
+p {
+    text-align: center;
+    margin-left: 80px;
+    margin-right: 80px;
+    font-size: 18px;
+    
+}
+.sec5 {
+    background-image: url("image3.jpg");
+    height:700px;
+    line-height: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#pagethree {
+    height: 100px;
+    width: 800px;
+    color:rgb(250, 232, 198);
+    background-color: rgba(0,0,0,0.1);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 270px;
+    margin-left: 150px;
+   
+}
+.sec6 {
+    background-color: grey;
+    height: 300px;
+}
+.sec6 h1 {
+    color: white;
+}
+.sec7 {
+    background-image: url("image1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#pagefour {
+    height:100px;
+    width:400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    background-color:rgb(87, 85, 85); 
+    margin-top: 280px;
+}
